@@ -1,1 +1,1 @@
-This is a repository dedicated to HackerRank's 30 days of Code Challenge.
+Hacker Rank 30 Days of Code Challenge.
